@@ -30,7 +30,7 @@ echo MacPorts has sucessfully been uninstalled from your system. If you want a b
             exit
             ;;
         *)
-            echo "incorrect selection!"
+            echo "Not an option!"
             ;;
     esac
 done
