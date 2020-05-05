@@ -22,7 +22,7 @@ while true
         ~/.macports
 sudo /usr/bin/dscl . -delete "/Users/macports"
 sudo dscl . -delete "/Groups/macports"
-echo MacPorts has sucessfully been uninstalled from your system. If you want a better package manager, try Homebrew.
+echo MacPorts has sucessfully been uninstalled from your system.
             break
             ;;
         N|NO)
